@@ -23,6 +23,13 @@ I explored the overall contract architecture of OpenZeppelin.
 #### Starting the development of Smart Contract in Solidity with OpenZeppelin
 
 1. Create 2 contract NFT and NFTMarket 
+2. write the nessecary funtions in both contracts
+
+## Day 04 
+
+1. Learned the testing methodolgy
+2. write the tests for NFT and NFTMarket contract
+
 
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
