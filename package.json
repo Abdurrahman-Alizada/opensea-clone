@@ -14,7 +14,7 @@
     "axios": "^0.27.2",
     "chai": "^4.3.6",
     "ethers": "^5.0.0",
-    "hardhat": "^2.9.5",
+    "hardhat": "^2.8.2",
     "ipfs-http-client": "^56.0.3",
     "next": "12.1.6",
     "react": "18.1.0",

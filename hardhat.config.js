@@ -31,7 +31,11 @@ module.exports = {
     mainnet :{
       url:`https://polygon-mainnet.infura.io/v3/${projectId}`,
       accounts:[privateKey]
-    }
+    },
+    ropsten: {
+      url: `https://ropsten.infura.io/v3/${projectId}`,
+      accounts: [privateKey]
+    },
 
   },
   solidity: "0.8.4",
