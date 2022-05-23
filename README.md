@@ -35,6 +35,16 @@ I explored the overall contract architecture of OpenZeppelin.
 
 1. Start working on fronend
 
+## Day 06
+#### Index.js and create-item completed
+
+In this two pages I write 4 function 
+
+ 1. loadNFT() in which all NFTs are loaded in render in through map function
+ 2. buyNFT() in which you can buy NFT by calling buyNFT function from NFTMarket smart contract
+ 3. createItem() in which NFT can be created
+ 4. createSale() in which NFT can be listed for sale
+
 # How to use this project
 
 - Clone the project
