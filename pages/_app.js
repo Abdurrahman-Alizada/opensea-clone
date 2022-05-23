@@ -73,7 +73,7 @@ function MyApp({ Component, pageProps }) {
                     Sell NFT
                   </a>
                 </Link>
-                <Link href="/">
+                <Link href="/my-nfts">
                   <a
                     className="my-1 font-semibold text-md leading-5 text-gray-700 transition-colors duration-200 transform dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 hover:underline md:mx-4 md:my-0"
                     href="#"
@@ -81,7 +81,7 @@ function MyApp({ Component, pageProps }) {
                     My NFTs
                   </a>
                 </Link>
-                <Link href="/">
+                <Link href="/dashboard">
                   <a
                     className="my-1 font-semibold text-md leading-5 text-gray-700 transition-colors duration-200 transform dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400 hover:underline md:mx-4 md:my-0"
                     href="#"
